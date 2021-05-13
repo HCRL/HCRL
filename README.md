@@ -5,11 +5,12 @@
 * Cyber Threat Intelligence
 * Malware Analysis
 * Data Mining
+* Deep Learning
 
 # 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sang-min-park-501031154/)](https://www.linkedin.com/in/sang-min-park-501031154/)
 
-# Education
+# 🎓 Education
 * 2016 ~ 2021 : B.S in Korea University
 * 2021 ~ : M.S in Korea University
 
